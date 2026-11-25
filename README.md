@@ -1,4 +1,4 @@
-# Stream-socket-based-communications-for-Linux/Windows Client-Server-architectures 
+# Stream socket-based communications for Linux/Windows Client-Server architectures
 This project implements and IPv4/6 server in Linux with a Windows IPv4 client using Berkeley sockets, socket data structures and other socket applications.
 
 BLOCK DIAGRAM OF THE NETWORK ARCHITECTURE:
